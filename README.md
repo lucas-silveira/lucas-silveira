@@ -10,8 +10,8 @@
 
 - I'm currently working at Nuvemshop
 - A passionate Self-taught Back-end developer
-- Content Creator at Youtube [link](https://www.youtube.com/channel/UCnwvBussjq1hF-gd2zgsBfw)
 - Currently studying Software Engineering at FIAP São Paulo/Brazil
+- Content Creator at Youtube [link](https://www.youtube.com/channel/UCnwvBussjq1hF-gd2zgsBfw)
 - Linkedin Profile [link](https://www.linkedin.com/in/lucas-silveira)
 
 <br>
