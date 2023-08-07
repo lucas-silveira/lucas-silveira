@@ -11,7 +11,7 @@
 - I'm currently working at Nuvemshop
 - A passionate Self-taught Back-end developer
 - Currently studying Software Engineering at FIAP São Paulo/Brazil
-- Content Creator at Youtube [link](https://youtube.com/@lucassilveiradev)
+- Content Creator at [Medium](https://medium.com/@lugwriter) and [Youtube](https://youtube.com/@lucassilveiradev).
 - Linkedin Profile [link](https://www.linkedin.com/in/lucas-silveira)
 
 <br>
@@ -25,12 +25,16 @@
   <img src="https://img.shields.io/badge/gmail:  lugano1995@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://youtube.com/@lucassilveiradev" target="_blank">
-  <img src="https://img.shields.io/badge/youtube:  Lucas Silveira-%2300acee.svg?color=CD201F&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
-</a>
-
 <a href="https://www.linkedin.com/in/lucas-silveira" target="_blank">
   <img src="https://img.shields.io/badge/linkedin:  Lucas Silveira-%2300acee.svg?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+
+<a href="https://medium.com/@lugwriter" target="_blank">
+  <img src="https://img.shields.io/badge/medium:  lug-%2300acee.svg?color=000000&style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;"/>
+</a>
+
+<a href="https://youtube.com/@lucassilveiradev" target="_blank">
+  <img src="https://img.shields.io/badge/youtube:  Lucas Silveira-%2300acee.svg?color=CD201F&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
 </a>
 
 <a href="https://www.instagram.com/brlucassilveira" target="_blank">
