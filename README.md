@@ -9,7 +9,7 @@
 <picture><img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 - I'm currently working at Nuvemshop
-- A passionate Self-taught Back-end developer
+- A passionate self-taught back-end developer
 - Currently studying Software Engineering at FIAP São Paulo/Brazil
 - Content Creator at [Medium](https://medium.com/@lugwriter) and [Youtube](https://youtube.com/@lucassilveiradev).
 - Linkedin Profile [link](https://www.linkedin.com/in/lucas-silveira)
