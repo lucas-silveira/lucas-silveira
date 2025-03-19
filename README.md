@@ -10,8 +10,7 @@
 
 - I'm currently working at Nuvemshop
 - A passionate self-taught back-end developer
-- Currently studying Software Engineering at FIAP São Paulo/Brazil
-- Content Creator at [Medium](https://medium.com/@lugwriter) and [Youtube](https://youtube.com/@lucassilveiradev).
+- Content Creator at [Medium](https://medium.com/@lugwriter)
 - Linkedin Profile [link](https://www.linkedin.com/in/lucas-silveira)
 
 <br>
@@ -31,10 +30,6 @@
 
 <a href="https://medium.com/@lugwriter" target="_blank">
   <img src="https://img.shields.io/badge/medium:  lug-%2300acee.svg?color=000000&style=for-the-badge&logo=medium&logoColor=white" alt=medium style="margin-bottom: 5px;"/>
-</a>
-
-<a href="https://youtube.com/@lucassilveiradev" target="_blank">
-  <img src="https://img.shields.io/badge/youtube:  Lucas Silveira-%2300acee.svg?color=CD201F&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
 </a>
 
 <a href="https://www.instagram.com/brlucassilveira" target="_blank">
